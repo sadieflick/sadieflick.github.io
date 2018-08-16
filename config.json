@@ -1,0 +1,10 @@
+{
+  "vars": {},
+  "css": [
+    "carousel.less"
+  ],
+  "js": [
+    "carousel.js"
+  ],
+  "customizerUrl": "<none>"
+}
